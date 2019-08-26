@@ -23,12 +23,69 @@ http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2131
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2130
 #EXTINF:-1 tvg-id="" tvg-name="BN013:BeIN Sport 12" tvg-logo="" group-title="Arab Bein",BeIN Sport 12
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2129
+
+#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-name="NL001:Ziggo Sport Select FHD 1080" tvg-logo="" group-title="Netherland",Ziggo Sport Select FHD-Belanda
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31530
+#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-name="NL026:Ziggo Sport.Voetbal" tvg-logo="" group-title="Netherland",Ziggo Sport.Voetbal-Belanda
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31505
+#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-name="NL027:Ziggo Sport Select HD" tvg-logo="" group-title="Netherland",Ziggo Sport Select HD-Belanda
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31504
+#EXTINF:-1 tvg-id="ZiggoSportExtra2.nl" tvg-name="NL030:Ziggo Sport Extra2" tvg-logo="" group-title="Netherland",Ziggo Sport Extra2-Belanda
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31501
+#EXTINF:-1 tvg-id="ZiggoSportExtra1.nl" tvg-name="NL031:Ziggo Sport Extra1" tvg-logo="" group-title="Netherland",Ziggo Sport Extra1-Belanda
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31500
+
+#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="BG006:Diema Spor 1" tvg-logo="" group-title="Bulgaria",Diema Spor 1-Bulgaria
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30820
+#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="BG007:Diema Spor 2" tvg-logo="" group-title="Bulgaria",Diema Spor 2-Bulgaria
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30819
+
 #EXTINF:-1 tvg-id="espn.extra.hd.br" tvg-name="BR030:ESPN Extra" tvg-logo="" group-title="Brazil",ESPN Extra-Brazil
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2502
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="BR031:ESPN BRASIL" tvg-logo="" group-title="Brazil",ESPN LIVE-Brazil
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="BR031:ESPN BRASIL" tvg-logo="" group-title="Brazil",ESPN - Brazil (Live)
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2501
 #EXTINF:-1 tvg-id="espn.br" tvg-name="BR033:ESPN" tvg-logo="" group-title="Brazil",ESPN-Brazil
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2499
+
+#EXTINF:-1 tvg-id="CT4Sport.cz" tvg-name="CZ004:Sport 5" tvg-logo="" group-title="Czech",Sport 5-Ceko
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31016
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="CZ006:Sport 1" tvg-logo="" group-title="Czech",Sport 1-Ceko
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31014
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="CZ005:Sport 2 HD" tvg-logo="" group-title="Czech",Sport 2 HD-Ceko
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31015
+#EXTINF:-1 tvg-id="NovaSport 2.cz" tvg-name="CZ011:Nova Sport 2 HD" tvg-logo="" group-title="Czech",Nova Sport 2 HD-Ceko
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31009
+#EXTINF:-1 tvg-id="CT4Sport.cz" tvg-name="CZ043:CT4 Sport HD" tvg-logo="" group-title="Czech",CT4 Sport HD-Ceko
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30977
+#EXTINF:-1 tvg-id="NovaSport.cz" tvg-name="CZ108:Nova Sport 1 HD" tvg-logo="" group-title="Czech",Nova Sport 1 HD-Ceko
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30912
+#EXTINF:-1 tvg-id="NovaSport 2.cz" tvg-name="CZ109:Nova Sport 2 HD" tvg-logo="" group-title="Czech",Nova Sport 2 HD-Ceko
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30911
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="CZ121:SPORT 1 HD" tvg-logo="" group-title="Czech",SPORT 1 HD-Ceko
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30899
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="CZ122:Sport 2 HD" tvg-logo="" group-title="Czech",Sport 2 HD-Ceko
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30898
+#EXTINF:-1 tvg-id="" tvg-name="CZ123:Sport 5 HD" tvg-logo="" group-title="Czech",Sport 5 HD-Ceko
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30897
+
+#EXTINF:-1 tvg-id="" tvg-name="DK003:C More Live" tvg-logo="" group-title="Denmark",C More Live-Denmark
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31128
+#EXTINF:-1 tvg-id="TV3Sport.dk" tvg-name="DK028:TV 3 SPORT 1" tvg-logo="" group-title="Denmark",TV 3 SPORT 1-Denmark
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31103
+#EXTINF:-1 tvg-id="TV3Sport.dk" tvg-name="DK029:TV 3 SPORT 2" tvg-logo="" group-title="Denmark",TV 3 SPORT 2-Denmark
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31102
+#EXTINF:-1 tvg-id="" tvg-name="DK045:VIASAT FOTBOLL" tvg-logo="" group-title="Denmark",VIASAT FOTBOLL-Denmark
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31086
+#EXTINF:-1 tvg-id="" tvg-name="DK054:VIASAT SPORT" tvg-logo="" group-title="Denmark",VIASAT SPORT-Denmark
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31077
+
+#EXTINF:-1 tvg-id="DigiSport1.hu" tvg-name="HU007:DIGI SPORT 1" tvg-logo="" group-title="Hungary",DIGI SPORT 1-Hungary
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31344
+#EXTINF:-1 tvg-id="DigiSport2.hu" tvg-name="HU006:DIGI SPORT 2" tvg-logo="" group-title="Hungary",DIGI SPORT 2-Hungary
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31345
+#EXTINF:-1 tvg-id="DigiSport3.hu" tvg-name="HU005:DIGI SPORT 3x" tvg-logo="" group-title="Hungary",DIGI SPORT 3-Hungary
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31346
+
 #EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="UK014:BT Sport 1" tvg-logo="" group-title="United Kingdom",BT Sport 1-Inggris
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2943
 #EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="UK015:BT Sport 2" tvg-logo="" group-title="United Kingdom",BT Sport 2-Inggris
@@ -45,10 +102,11 @@ http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2881
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2880
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK080:Sky Sports PremierLeague" tvg-logo="" group-title="United Kingdom",Sky Sports PremierLeague-Inggris
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2877
-#EXTINF:-1 tvg-id="PremiumStories.it" tvg-name="IT047:Premium Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT047PremiumSport2.png" group-title="Italy",Premium Sport 2-Italy
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2725
+
 #EXTINF:-1 tvg-id="PremiumStories.it" tvg-name="IT048:Premium Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT048PremiumSport1.png" group-title="Italy",Premium Sport 1-Italy
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2724
+#EXTINF:-1 tvg-id="PremiumStories.it" tvg-name="IT047:Premium Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT047PremiumSport2.png" group-title="Italy",Premium Sport 2-Italy
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2725
 #EXTINF:-1 tvg-id="" tvg-name="IT066:Sky Calcio" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT066SkyCalcio.png" group-title="Italy",Sky Calcio-Italy
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2706
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-name="IT076:Sky Sport 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT076SkySport24.png" group-title="Italy",Sky Sport 24-Italy
@@ -61,6 +119,39 @@ http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/28324
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/28307
 #EXTINF:-1 tvg-id="Primafila17.it" tvg-name="IT256:Sky Sport Arena HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT256SkySportArenaHD.png" group-title="Italy",Sky Sport Arena HD-Italy
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/28306
+
+#EXTINF:-1 tvg-id="sky.bundesliga.1.de" tvg-name="DE051:Sky Bundesliga 1" tvg-logo="" group-title="German",Sky Bundesliga 1-Jerman
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2632
+#EXTINF:-1 tvg-id="" tvg-name="DE281:Sky Sport HD (AU)" tvg-logo="" group-title="German",Sky Sport HD (AU)-Jerman
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/29003
+
+#EXTINF:-1 group-title="Croatia",Arena Sport 1-KROASIA
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46257
+#EXTINF:-1 group-title="Croatia",Arena Sport 2-KROASIA
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46256
+#EXTINF:-1 group-title="Croatia",Arena Sport 3-KROASIA
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46255
+#EXTINF:-1 group-title="Croatia",Arena Sport 4-KROASIA
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46254
+#EXTINF:-1 group-title="Croatia",Arena Sport 5-KROASIA
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46253
+#EXTINF:-1 group-title="Croatia",Arena Sport 6-KROASIA
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46252
+#EXTINF:-1 group-title="Croatia",SK1-KROASIA
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46251
+#EXTINF:-1 group-title="Croatia",SK2-KORASIA
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46250
+#EXTINF:-1 group-title="Croatia",SK3-KROASIA
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46249
+
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia",Super Sport 1-Malaysia
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",Super Sport 2-Malaysia
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1721
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Malaysia",Super Sport 3-Malaysia
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1720
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia",Super Sport 4-Malaysia
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1719
 #EXTINF:-1 tvg-id="sfr.sport.1.fr" tvg-name="FR081:SFR Sport 1" tvg-logo="" group-title="France",SFR Sport 1-Perancis
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2785
 #EXTINF:-1 tvg-id="sfr.sport.2.fr" tvg-name="FR082:SFR Sport 2" tvg-logo="" group-title="France",SFR Sport 2-Perancis
@@ -69,30 +160,6 @@ http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2784
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2783
 #EXTINF:-1 tvg-id="" tvg-name="FR080:SFR Sport 4" tvg-logo="" group-title="France",SFR Sport 4-Perancis
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2786
-#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-name="NL001:Ziggo Sport Select FHD 1080" tvg-logo="" group-title="Netherland",Ziggo Sport Select FHD-Belanda
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31530
-#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-name="NL026:Ziggo Sport.Voetbal" tvg-logo="" group-title="Netherland",Ziggo Sport.Voetbal-Belanda
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31505
-#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-name="NL027:Ziggo Sport Select HD" tvg-logo="" group-title="Netherland",Ziggo Sport Select HD-Belanda
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31504
-#EXTINF:-1 tvg-id="ZiggoSportExtra2.nl" tvg-name="NL030:Ziggo Sport Extra2" tvg-logo="" group-title="Netherland",Ziggo Sport Extra2-Belanda
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31501
-#EXTINF:-1 tvg-id="ZiggoSportExtra1.nl" tvg-name="NL031:Ziggo Sport Extra1" tvg-logo="" group-title="Netherland",Ziggo Sport Extra1-Belanda
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31500
-#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="BG006:Diema Spor 1" tvg-logo="" group-title="Bulgaria",Diema Spor 1-Bulgaria
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30820
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="BG007:Diema Spor 2" tvg-logo="" group-title="Bulgaria",Diema Spor 2-Bulgaria
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30819
-#EXTINF:-1 tvg-id="DigiSport1.hu" tvg-name="HU007:DIGI SPORT 1" tvg-logo="" group-title="Hungary",DIGI SPORT 1-Hungary
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31344
-#EXTINF:-1 tvg-id="DigiSport2.hu" tvg-name="HU006:DIGI SPORT 2" tvg-logo="" group-title="Hungary",DIGI SPORT 2-Hungary
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31345
-#EXTINF:-1 tvg-id="DigiSport3.hu" tvg-name="HU005:DIGI SPORT 3x" tvg-logo="" group-title="Hungary",DIGI SPORT 3-Hungary
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31346
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="TR123:SPORTS TV HD" tvg-logo="" group-title="Turkey",SPORTS TV-Turkey
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/32946
-#EXTINF:-1 tvg-id="" tvg-name="TH006:PPTV (HD)" tvg-logo="" group-title="Thailand",PPTV-Thailand
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/32193
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT058:Sport TV 1" tvg-logo="" group-title="Portugal",Sport TV 1-Portugal
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/3192
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT059:Sport TV 2" tvg-logo="" group-title="Portugal",Sport TV 2-Portugal
@@ -115,34 +182,14 @@ http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/29370
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/29369
 #EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT122:ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 4 FHD-Portugal
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/29368
+#EXTINF:-1 tvg-id="" tvg-name="TH006:PPTV (HD)" tvg-logo="" group-title="Thailand",PPTV HD-Thailand
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/32193
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="TR123:SPORTS TV HD" tvg-logo="" group-title="Turkey",SPORTS TV-Turkey
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/32946
+
 #EXTINF:-1 tvg-id="bein.sports.us" tvg-name="US009:Bein-Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US009Bein-Sports.png" group-title="United States",BeinSports-USA
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/3159
-#EXTINF:-1,Arena Sport 1-KROASIA
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46257
-#EXTINF:-1,Arena Sport 2-KROASIA
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46256
-#EXTINF:-1,Arena Sport 3-KROASIA
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46255
-#EXTINF:-1,Arena Sport 4-KROASIA
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46254
-#EXTINF:-1,Arena Sport 5-KROASIA
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46253
-#EXTINF:-1,Arena Sport 6-KROASIA
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46252
-#EXTINF:-1,SK1-KROASIA
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46251
-#EXTINF:-1,SK2-KORASIA
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46250
-#EXTINF:-1,SK3-KROASIA
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/46249
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia",Super Sport 1-Malaysia
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1722
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",Super Sport 2-Malaysia
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1721
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Malaysia",Super Sport 3-Malaysia
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1720
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia",Super Sport 4-Malaysia
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1719
+
 #EXTINF:-1 tvg-id="" tvg-name="VIP001:Pinko TV" tvg-logo="" group-title="VIP",VIP001:Pinko TV
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2985
 #EXTINF:-1 tvg-id="" tvg-name="VIP002:Erotic XXX" tvg-logo="" group-title="VIP",VIP002:Erotic XXX
@@ -381,23 +428,6 @@ http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30876
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30848
 #EXTINF:-1 tvg-id="" tvg-name="CHE040:Teleclub Sport 3 HD" tvg-logo="" group-title="Switzerland",Teleclub Sport 3 HD-Swiss
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30849
-#EXTINF:-1 tvg-id="CT4Sport.cz" tvg-name="CZ004:Sport 5" tvg-logo="" group-title="Czech",Sport 5-Ceko
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31016
-#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="CZ006:Sport 1" tvg-logo="" group-title="Czech",Sport 1-Ceko
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31014
-#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="CZ005:Sport 2 HD" tvg-logo="" group-title="Czech",Sport 2 HD-Ceko
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31015
-#EXTINF:-1 tvg-id="NovaSport 2.cz" tvg-name="CZ011:Nova Sport 2 HD" tvg-logo="" group-title="Czech",Nova Sport 2 HD-Ceko
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/31009
-#EXTINF:-1 tvg-id="CT4Sport.cz" tvg-name="CZ043:CT4 Sport HD" tvg-logo="" group-title="Czech",CT4 Sport HD-Ceko
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30977
-#EXTINF:-1 tvg-id="NovaSport.cz" tvg-name="CZ108:Nova Sport 1 HD" tvg-logo="" group-title="Czech",Nova Sport 1 HD-Ceko
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30912
-#EXTINF:-1 tvg-id="NovaSport 2.cz" tvg-name="CZ109:Nova Sport 2 HD" tvg-logo="" group-title="Czech",Nova Sport 2 HD-Ceko
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30911
-#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="CZ121:SPORT 1 HD" tvg-logo="" group-title="Czech",SPORT 1 HD-Ceko
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30899
-#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="CZ122:Sport 2 HD" tvg-logo="" group-title="Czech",Sport 2 HD-Ceko
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30898
-#EXTINF:-1 tvg-id="" tvg-name="CZ123:Sport 5 HD" tvg-logo="" group-title="Czech",Sport 5 HD-Ceko
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/30897
+
+#EXTINF:-1 tvg-id="sky.bundesliga.1.de" tvg-name="DE051:Sky Bundesliga 1" tvg-logo="" group-title="German",Sky Bundesliga 1-Jerman
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2632
