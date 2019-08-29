@@ -161,6 +161,9 @@ http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1720
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia",Super Sport 4-Malaysia
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1719
 
+#EXTINF:-1 tvg-id="TV2SportPremium1.no" tvg-name="NO019:TV2 Sport Premium 1" tvg-logo="" group-title="Norway",NO019:TV2 Sport Premium 1
+http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/31538
+
 #EXTINF:-1 tvg-id="sfr.sport.1.fr" tvg-name="FR081:SFR Sport 1" tvg-logo="" group-title="Perancis",SFR Sport 1-Perancis
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/2785
 #EXTINF:-1 tvg-id="sfr.sport.2.fr" tvg-name="FR082:SFR Sport 2" tvg-logo="" group-title="Perancis",SFR Sport 2-Perancis
