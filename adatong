@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1,IN531:Star Sports Select 1
+#EXTINF:-1,IN531:Star Sports Select 1 ykn
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/26883
-#EXTINF:-1,IN532:Star Utsav
+#EXTINF:-1,IN532:Star Utsav ykn
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/26882
-#EXTINF:-1,IN533:Star Vijay
+#EXTINF:-1,IN533:Star Vijay ykn
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/26881
-#EXTINF:-1,IN534:Star_Sports_Select_HD_2
+#EXTINF:-1,IN534:Star_Sports_Select_HD_2 ykn
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/26880
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="IN531:Star Sports Select 1" tvg-logo="" group-title="India",IN531:Star Sports Select 1
+http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26883
+#EXTINF:-1 tvg-id="StarUtsav.in" tvg-name="IN532:Star Utsav" tvg-logo="" group-title="India",IN532:Star Utsav
+http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26882
+#EXTINF:-1 tvg-id="" tvg-name="IN533:Star Vijay" tvg-logo="" group-title="India",IN533:Star Vijay
+http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26881
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="IN534:Star_Sports_Select_HD_2" tvg-logo="" group-title="India",IN534:Star_Sports_Select_HD_2
+http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26880
+#EXTINF:-1 tvg-id="" tvg-name="IN535:Studio_n" tvg-logo="" group-title="India",IN535:Studio_n
+http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26879
+#EXTINF:-1 tvg-id="ShubhavaartaTV.in" tvg-name="IN536:Subhavartha_TV" tvg-logo="" group-title="India",IN536:Subhavartha_TV
+http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26878
