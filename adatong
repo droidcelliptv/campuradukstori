@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,IN531:Star Sports Select 1 ykn
+#:-1,IN531:Star Sports Select 1 ykn
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/26883
 #EXTINF:-1,IN532:Star Utsav ykn
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/26882
@@ -21,5 +21,24 @@ http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26879
 http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26878
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV FHD
 http://forsat.men:8888/maju/qK326kZJBc/78
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
-http://forsat.men:8888/maju/qK326kZJBc/24
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="Movie",HBO FHD
+http://forsat.men:8888/maju/qK326kZJBc/1496
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits HD
+http://forsat.men:8888/maju/qK326kZJBc/591
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits Backup
+http://forsat.men:8888/maju/qK326kZJBc/1528
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family HD
+http://forsat.men:8888/maju/qK326kZJBc/592
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://imgbbb.com/images/2019/04/30/HBO_Signature_Asia.png" group-title="Movie",HBO Signature HD
+http://forsat.men:8888/maju/qK326kZJBc/873
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD" tvg-logo="https://imgbbb.com/images/2019/04/30/HBO_Signature_Asia.png" group-title="Movie",HBO Signature FHD
+http://forsat.men:8888/maju/qK326kZJBc/1498
+#EXTINF:-1 tvg-id="RED.id" tvg-name="Red by HBO HD" tvg-logo="https://imgbbb.com/images/2019/04/30/REDBYHBO.png" group-title="Movie",Red by HBO HD
+http://forsat.men:8888/maju/qK326kZJBc/874
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax HD
+http://forsat.men:8888/maju/qK326kZJBc/796
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax FHD
+http://forsat.men:8888/maju/qK326kZJBc/2156
+#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime" tvg-logo="https://imgbbb.com/images/2019/04/30/Lifetime_tv_logo.png" group-title="Movie",LifeTime
+http://forsat.men:8888/maju/qK326kZJBc/866
