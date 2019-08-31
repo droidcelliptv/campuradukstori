@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0, group-title="SPORT",BEIN 1 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/763.ts
+#EXTINF:0, group-title="SPORT",BEIN 2 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/765.ts
+#EXTINF:0, group-title="SPORT",BEIN 3 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/767.ts
+#EXTINF:0, group-title="SPORT",BEIN 4 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/769.ts
+#EXTINF:0, group-title="SPORT",BEIN 5 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/771.ts
+#EXTINF:0, group-title="SPORT",BEIN 6 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/773.ts
+#EXTINF:0, group-title="SPORT",BEIN 7 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/775.ts
+#EXTINF:0, group-title="SPORT",BEIN 8 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/777.ts
+#EXTINF:0, group-title="SPORT",BEIN 9 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/779.ts
+#EXTINF:0, group-title="SPORT",BEIN 10 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/781.ts
+#EXTINF:0, group-title="SPORT",BEIN 11 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/783.ts
+#EXTINF:0, group-title="SPORT",BEIN 12 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/784.ts
+#EXTINF:0, group-title="SPORT",NBA
+http://23.237.22.82:8086/udp/127.0.0.1:56052
+#EXTINF:0, group-title="SPORT",TEN SPORT
+http://163.172.85.133:8080/Cricket/3/index.m3u8
+#EXTINF:0, group-title="SPORT",ESPN NEWS
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0, group-title="SPORT",SETANTA SPORTS
+http://persik.by/stream/1418/252987/10316.m3u8
+#EXTINF:0, group-title="SPORT",ALL SPORTS
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+#EXTINF:0, group-title="SPORT",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:0, group-title="SPORT",BURSA SPORT
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/chunklist.m3u8
+#EXTINF:0, group-title="SPORT",DUBAI SPORT HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+#EXTINF:0, group-title="SPORT",KUWAIT ONE
+http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
+#EXTINF:0, group-title="SPORT",NETWORK SPORT
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/index_2328_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="SPORT",RAI SPORT HD
+https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="SPORT",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="SPORT",RUSIA EXTREAM
+http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="SPORT",TILES SPORT
+http://78.47.151.116:1935/tilesport/movie1/chunklist_w464730088.m3u8
+#EXTINF:0, group-title="SPORT",TVA SPORT
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
+#EXTINF:0, group-title="SPORT",AD SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
+#EXTINF:0, group-title="SPORT",AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
+#EXTINF:0, group-title="SPORT",PODIUM TV
+http://highvolume102.streampartner.nl/podiumbv/smil:podiumbv.smil/chunklist_w1958898097_b2092000_slNL.m3u8
