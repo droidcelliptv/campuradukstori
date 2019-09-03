@@ -1,181 +1,41 @@
 #EXTM3U
-#:-1,IN531:Star Sports Select 1 ykn
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/26883
-#EXTINF:-1,IN532:Star Utsav ykn
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/26882
-#EXTINF:-1,IN533:Star Vijay ykn
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/26881
-#EXTINF:-1,IN534:Star_Sports_Select_HD_2 ykn
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/26880
-#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="IN531:Star Sports Select 1" tvg-logo="" group-title="India",IN531:Star Sports Select 1
-http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26883
-#EXTINF:-1 tvg-id="StarUtsav.in" tvg-name="IN532:Star Utsav" tvg-logo="" group-title="India",IN532:Star Utsav
-http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26882
-#EXTINF:-1 tvg-id="" tvg-name="IN533:Star Vijay" tvg-logo="" group-title="India",IN533:Star Vijay
-http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26881
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="IN534:Star_Sports_Select_HD_2" tvg-logo="" group-title="India",IN534:Star_Sports_Select_HD_2
-http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26880
-#EXTINF:-1 tvg-id="" tvg-name="IN535:Studio_n" tvg-logo="" group-title="India",IN535:Studio_n
-http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26879
-#EXTINF:-1 tvg-id="ShubhavaartaTV.in" tvg-name="IN536:Subhavartha_TV" tvg-logo="" group-title="India",IN536:Subhavartha_TV
-http://mu01.v5iptv.com:8880/TSTE024/1AH7QS9ts9/26878
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV FHD
-http://forsat.men:8888/maju/qK326kZJBc/78
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="Movie",HBO FHD
-http://forsat.men:8888/maju/qK326kZJBc/1496
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits HD
-http://forsat.men:8888/maju/qK326kZJBc/591
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits Backup
-http://forsat.men:8888/maju/qK326kZJBc/1528
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family HD
-http://forsat.men:8888/maju/qK326kZJBc/592
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://imgbbb.com/images/2019/04/30/HBO_Signature_Asia.png" group-title="Movie",HBO Signature HD
-http://forsat.men:8888/maju/qK326kZJBc/873
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD" tvg-logo="https://imgbbb.com/images/2019/04/30/HBO_Signature_Asia.png" group-title="Movie",HBO Signature FHD
-http://forsat.men:8888/maju/qK326kZJBc/1498
-#EXTINF:-1 tvg-id="RED.id" tvg-name="Red by HBO HD" tvg-logo="https://imgbbb.com/images/2019/04/30/REDBYHBO.png" group-title="Movie",Red by HBO HD
-http://forsat.men:8888/maju/qK326kZJBc/874
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax HD
-http://forsat.men:8888/maju/qK326kZJBc/796
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie",Cinemax FHD
-http://forsat.men:8888/maju/qK326kZJBc/2156
-#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime" tvg-logo="https://imgbbb.com/images/2019/04/30/Lifetime_tv_logo.png" group-title="Movie",LifeTime
-http://forsat.men:8888/maju/qK326kZJBc/866
-
-
-#EXTINF:-1,ANTV
-http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,JAK TV
-http://202.80.222.130/000001/2/ch00000090990000001695/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,RTV
-http://202.80.222.130/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,Bali TV
-http://202.80.222.130/000001/2/ch00000090990000001729/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,MNCTV
-http://202.80.222.130/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,GTV
-http://202.80.222.130/000001/2/ch14041511505498448705/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,RCTI
-http://202.80.222.130/000001/2/ch14041511532707866226/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,iNews
-http://202.80.222.130/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,Trans 7
-http://202.80.222.130/000001/2/ch14041511545447343123/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,Trans TV
-http://202.80.222.130/000001/2/ch14041511552652254306/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,SCTV
-http://202.80.222.130/000001/2/ch15010918464887721048/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,Indosiar
-http://202.80.222.130/000001/2/ch15051810235326945512/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,jtv
-http://202.80.222.130/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,Metro TV
-http://202.80.222.130/000001/2/ch14041511515576869807/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,Kompas TV
-http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,tvOne
-http://202.80.222.130/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,TVRI
-http://202.80.222.130/000001/2/ch14041511560872104862/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
-#EXTINF:-1,FOX life
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/02.m3u8
-#EXTINF:-1,FOX life
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:-1,KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:-1,KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1,thrill
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,thrill
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1,ANIPLUS
-http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
-#EXTINF:-1,ANIPLUS
-http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/02.m3u8
-#EXTINF:-1,FOX ACTION MOVIES
-http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
-#EXTINF:-1,FOX MOVIE PREMIUM
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
-#EXTINF:-1,FOX FAMILY MOVIES
-http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/01.m3u8
-#EXTINF:-1,SBSIN
-http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8
-#EXTINF:-1,SONY ONE
-http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/index.m3u8
-#EXTINF:-1,K-DRAMA
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-#EXTINF:-1,SBSIN
-http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/02.m3u8
-#EXTINF:-1,K-DRAMA
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/02.m3u8
-#EXTINF:-1,SONY ONE
-http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/02.m3u8
-#EXTINF:-1,FOX ACTION MOVIES
-http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/02.m3u8
-#EXTINF:-1,FOX MOVIE PREMIUM
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/02.m3u8
-
-
-
-#EXTINF:0, group-title="SPORT",BEIN 1 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/763.ts
-#EXTINF:0, group-title="SPORT",BEIN 2 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/765.ts
-#EXTINF:0, group-title="SPORT",BEIN 3 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/767.ts
-#EXTINF:0, group-title="SPORT",BEIN 4 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/769.ts
-#EXTINF:0, group-title="SPORT",BEIN 5 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/771.ts
-#EXTINF:0, group-title="SPORT",BEIN 6 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/773.ts
-#EXTINF:0, group-title="SPORT",BEIN 7 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/775.ts
-#EXTINF:0, group-title="SPORT",BEIN 8 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/777.ts
-#EXTINF:0, group-title="SPORT",BEIN 9 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/779.ts
-#EXTINF:0, group-title="SPORT",BEIN 10 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/781.ts
-#EXTINF:0, group-title="SPORT",BEIN 11 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/783.ts
-#EXTINF:0, group-title="SPORT",BEIN 12 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/784.ts
-#EXTINF:0, group-title="SPORT",NBA
-http://23.237.22.82:8086/udp/127.0.0.1:56052
-#EXTINF:0, group-title="SPORT",TEN SPORT
-http://163.172.85.133:8080/Cricket/3/index.m3u8
-#EXTINF:0, group-title="SPORT",ESPN NEWS
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0, group-title="SPORT",SETANTA SPORTS
-http://persik.by/stream/1418/252987/10316.m3u8
-#EXTINF:0, group-title="SPORT",ALL SPORTS
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
-#EXTINF:0, group-title="SPORT",ATGV 1 SPORT
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:0, group-title="SPORT",BURSA SPORT
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/chunklist.m3u8
-#EXTINF:0, group-title="SPORT",DUBAI SPORT HD
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
-#EXTINF:0, group-title="SPORT",KUWAIT ONE
-http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
-#EXTINF:0, group-title="SPORT",NETWORK SPORT
-http://p12n-lh.akamaihd.net/i/network_delivery@428818/index_2328_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="SPORT",RAI SPORT HD
-https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="SPORT",REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="SPORT",RUSIA EXTREAM
-http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="SPORT",TILES SPORT
-http://78.47.151.116:1935/tilesport/movie1/chunklist_w464730088.m3u8
-#EXTINF:0, group-title="SPORT",TVA SPORT
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
-#EXTINF:0, group-title="SPORT",AD SPORT 1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
-#EXTINF:0, group-title="SPORT",AD SPORT 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
-#EXTINF:0, group-title="SPORT",PODIUM TV
-http://highvolume102.streampartner.nl/podiumbv/smil:podiumbv.smil/chunklist_w1958898097_b2092000_slNL.m3u8
+#EXTINF:-1,beIN Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/1.ts
+#EXTINF:-1,beIN Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/2.ts
+#EXTINF:-1,beIN Sports 3 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/3.ts
+#EXTINF:-1,beIN Sports 4 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/4.ts
+#EXTINF:-1,beIN Sports 5 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/5.ts
+#EXTINF:-1,beIN Sports 6 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/6.ts
+#EXTINF:-1,beIN Sports 7 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/7.ts
+#EXTINF:-1,beIN Sports 8 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/8.ts
+#EXTINF:-1,beIN Sports 9 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/9.ts
+#EXTINF:-1,beIN Sports 10 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/10.ts
+#EXTINF:-1,BEIN SPORTS News
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/17.ts
+#EXTINF:-1,Turkish beIN Sports 1 (TR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/11.ts
+#EXTINF:-1,EuroSport 1 (FR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/12.ts
+#EXTINF:-1,EuroSport 2 (FR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/13.ts
+#EXTINF:-1,beIN Sports 1 HD (FR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/14.ts
+#EXTINF:-1,beIN Sports 2 HD (FR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/15.ts
+#EXTINF:-1,beIN Sports 3 HD (FR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/16.ts
+#EXTINF:-1,OSN AD Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/18.ts
+#EXTINF:-1,OSN AD Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/19.ts
+#EXTINF:-1,beIN Sports HD (ES)
+http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/20.ts
