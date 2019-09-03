@@ -1,61 +1,125 @@
 #EXTM3U
-#EXTINF:-1,Se- Viasat Sport Baltic HD
-http://m-iptv.net:6204/live/987654123/987654123/8113.m3u8
-#EXTINF:-1,Se- Fight Sports
-http://m-iptv.net:6204/live/987654123/987654123/13521.m3u8
-#EXTINF:-1,Se- SportKanalen FHD
-http://m-iptv.net:6204/live/987654123/987654123/13520.m3u8
-#EXTINF:-1,No- Eurosport HD
-http://m-iptv.net:6204/live/987654123/987654123/8142.m3u8
-#EXTINF:-1,No- Eurosport Norge HD
-http://m-iptv.net:6204/live/987654123/987654123/8138.m3u8
-#EXTINF:-1,No- Eurosport Pluss 1
-http://m-iptv.net:6204/live/987654123/987654123/13466.m3u8
-#EXTINF:-1,No- Eurosport Pluss 2
-http://m-iptv.net:6204/live/987654123/987654123/13465.m3u8
-#EXTINF:-1,No- Eurosport Pluss 3
-http://m-iptv.net:6204/live/987654123/987654123/13464.m3u8
-#EXTINF:-1,No- Eurosport Pluss 4
-http://m-iptv.net:6204/live/987654123/987654123/13463.m3u8
-#EXTINF:-1,Fi- C More Sport 1 HD
-http://m-iptv.net:6204/live/987654123/987654123/9621.m3u8
-#EXTINF:-1,Fi- C More Sport 2
-http://m-iptv.net:6204/live/987654123/987654123/9620.m3u8
-#EXTINF:-1,Es- BARCA TV
-http://m-iptv.net:6204/live/987654123/987654123/10014.m3u8
-#EXTINF:-1,Es- BEIN LALIGA
-http://m-iptv.net:6204/live/987654123/987654123/10013.m3u8
-#EXTINF:-1,Es- BEIN SPORTS
-http://m-iptv.net:6204/live/987654123/987654123/10012.m3u8
-#EXTINF:-1,PT- SPORT TV
-http://m-iptv.net:6204/live/987654123/987654123/8810.m3u8
-#EXTINF:-1,PT- SPORT TV   HD
-http://m-iptv.net:6204/live/987654123/987654123/8809.m3u8
-#EXTINF:-1,PT- SPORTING TV
-http://m-iptv.net:6204/live/987654123/987654123/8808.m3u8
-#EXTINF:-1,PT- SPORTTV 1 HD
-http://m-iptv.net:6204/live/987654123/987654123/8807.m3u8
-#EXTINF:-1,PT- SPORTTV 1 SD
-http://m-iptv.net:6204/live/987654123/987654123/8806.m3u8
-#EXTINF:-1,PT- SPORTTV 2 HD
-http://m-iptv.net:6204/live/987654123/987654123/8805.m3u8
-#EXTINF:-1,PT- SPORTTV 2 SD
-http://m-iptv.net:6204/live/987654123/987654123/8804.m3u8
-#EXTINF:-1,PT- SPORTTV 3 HD
-http://m-iptv.net:6204/live/987654123/987654123/8803.m3u8
-#EXTINF:-1,PT- SPORTTV 3 SD
-http://m-iptv.net:6204/live/987654123/987654123/8802.m3u8
-#EXTINF:-1,PT- SPORTTV 4 HD
-http://m-iptv.net:6204/live/987654123/987654123/8801.m3u8
-#EXTINF:-1,PT- SPORTTV 5 HD
-http://m-iptv.net:6204/live/987654123/987654123/8800.m3u8
-#EXTINF:-1,PT- EUROSPORT 1
-http://m-iptv.net:6204/live/987654123/987654123/8853.m3u8
-#EXTINF:-1,PT- EUROSPORT 2
-http://m-iptv.net:6204/live/987654123/987654123/8852.m3u8
-#EXTINF:-1,PT- EUROSPORT NEWS
-http://m-iptv.net:6204/live/987654123/987654123/8850.m3u8
-#EXTINF:-1,PT- EuroSport 2 XTRA HD
-http://m-iptv.net:6204/live/987654123/987654123/8851.m3u8
-#EXTINF:-1,Be- ELEVEN SPORTS 1 HD
-http://m-iptv.net:6204/live/987654123/987654123/16326.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Usee TV",BEINSPORT 1 INDO
+rtmp://118.97.96.17:1935/discover/beib1_3
+#EXTINF:0,beIN Sport 1
+https://indiku.uk.to/pp/ok.m3u8?ch=bein1
+#EXTINF:0,beIN Sport 2
+https://indiku.uk.to/pp/ok.m3u8?ch=bein2
+#EXTINF:0,beIN Sport 3
+https://indiku.uk.to/pp/ok.m3u8?ch=bein3
+#EXTINF:0,Discovery Channel
+https://indiku.uk.to/pp/ok.m3u8?ch=disco
+#EXTINF:0,Fox Sport 1
+https://indiku.uk.to/pp/ok.m3u8?ch=foxsport1
+#EXTINF:0,Fox Sport 2
+https://indiku.uk.to/pp/ok.m3u8?ch=foxsport2
+#EXTINF:0,Fox Sport 3
+https://indiku.uk.to/pp/ok.m3u8?ch=foxsport3
+#EXTINF:0,Golfplus
+https://indiku.uk.to/pp/ok.m3u8?ch=golfplus
+#EXTINF:0,Piala Indonesia
+https://indiku.uk.to/pp/ok.m3u8?ch=ligapialaindo
+#EXTINF:0,Nat Geo
+https://indiku.uk.to/pp/ok.m3u8?ch=natgeo
+#EXTINF:0,Nat Geo People
+https://indiku.uk.to/pp/ok.m3u8?ch=natgeopeople
+#EXTINF:0,Nat Geo Wild
+https://indiku.uk.to/pp/ok.m3u8?ch=natgeowild
+#EXTINF:0,NBA
+https://indiku.uk.to/pp/ok.m3u8?ch=nba
+#EXTINF:0,Usee Info
+https://indiku.uk.to/pp/ok.m3u8?ch=useeinfo
+#EXTINF:0,Usee Photo
+https://indiku.uk.to/pp/ok.m3u8?ch=useephoto
+#EXTINF:0,UseePrime
+https://indiku.uk.to/pp/ok.m3u8?ch=useeprime
+#EXTINF:0,UseeSports
+https://indiku.uk.to/pp/ok.m3u8?ch=useesport
+#EXTINF:0,ANTV
+https://indiku.uk.to/pp/ok.m3u8?ch=antv
+#EXTINF:0,Idku
+https://indiku.uk.to/pp/ok.m3u8?ch=idku
+#EXTINF:0,Indosiar
+https://indiku.uk.to/pp/ok.m3u8?ch=indosiar
+#EXTINF:0,JITV
+https://indiku.uk.to/pp/ok.m3u8?ch=jitv
+#EXTINF:0,Kompas TV
+https://indiku.uk.to/pp/ok.m3u8?ch=kompastv
+#EXTINF:0,Metro TV
+https://indiku.uk.to/pp/ok.m3u8?ch=metrotv
+#EXTINF:0,Net.
+https://indiku.uk.to/pp/ok.m3u8?ch=net
+#EXTINF:0,RRI NET
+https://indiku.uk.to/pp/ok.m3u8?ch=rrinet
+#EXTINF:0,Rajawali TV
+https://indiku.uk.to/pp/ok.m3u8?ch=rtv
+#EXTINF:0,SCTV
+https://indiku.uk.to/pp/ok.m3u8?ch=sctv
+#EXTINF:0,Trans7
+https://indiku.uk.to/pp/ok.m3u8?ch=trans7
+#EXTINF:0,TransTV
+https://indiku.uk.to/pp/ok.m3u8?ch=transtv
+#EXTINF:0,TV One
+https://indiku.uk.to/pp/ok.m3u8?ch=tvone
+#EXTINF:0,Antara
+https://indiku.uk.to/pp/ok.m3u8?ch=antara
+#EXTINF:0,Baby First
+https://indiku.uk.to/pp/ok.m3u8?ch=babyfirst
+#EXTINF:0,Bali TV
+https://indiku.uk.to/pp/ok.m3u8?ch=balitv
+#EXTINF:0,BandungTV
+https://indiku.uk.to/pp/ok.m3u8?ch=bandungtv
+#EXTINF:0,Berita Satu
+https://indiku.uk.to/pp/ok.m3u8?ch=beritasatu
+#EXTINF:0,Citra Drama
+https://indiku.uk.to/pp/ok.m3u8?ch=cdrama
+#EXTINF:0,Celebes TV
+https://indiku.uk.to/pp/ok.m3u8?ch=celebestv
+#EXTINF:0,Citra Entertainment
+https://indiku.uk.to/pp/ok.m3u8?ch=centertainment
+#EXTINF:0,Duck TV
+https://indiku.uk.to/pp/ok.m3u8?ch=ducktv
+#EXTINF:0,Dunia Lain
+https://indiku.uk.to/pp/ok.m3u8?ch=dunialain
+#EXTINF:0,DW (English)
+https://indiku.uk.to/pp/ok.m3u8?ch=dwtv
+#EXTINF:0,Fajar TV
+https://indiku.uk.to/pp/ok.m3u8?ch=fajartv
+#EXTINF:0,France 24
+https://indiku.uk.to/pp/ok.m3u8?ch=france24
+#EXTINF:0,Horee
+https://indiku.uk.to/pp/ok.m3u8?ch=horee
+#EXTINF:0,IMC
+https://indiku.uk.to/pp/ok.m3u8?ch=imc
+#EXTINF:0,JakTV
+https://indiku.uk.to/pp/ok.m3u8?ch=jaktv
+#EXTINF:0,JTV
+https://indiku.uk.to/pp/ok.m3u8?ch=jtv
+#EXTINF:0,MUGOS
+https://indiku.uk.to/pp/ok.m3u8?ch=mugos
+#EXTINF:0,MUI TV
+https://indiku.uk.to/pp/ok.m3u8?ch=muitv
+#EXTINF:0,MyTV
+https://indiku.uk.to/pp/ok.m3u8?ch=mytv
+#EXTINF:0,News Asia
+https://indiku.uk.to/pp/ok.m3u8?ch=newsasia
+#EXTINF:0,Paytren TV
+https://indiku.uk.to/pp/ok.m3u8?ch=paytrentv
+#EXTINF:0,startup channel
+https://indiku.uk.to/pp/ok.m3u8?ch=startup
+#EXTINF:0,T Music
+https://indiku.uk.to/pp/ok.m3u8?ch=tmusic
+#EXTINF:0,TV9 NU
+https://indiku.uk.to/pp/ok.m3u8?ch=tv9
+#EXTINF:0,TV Edukasi
+https://indiku.uk.to/pp/ok.m3u8?ch=tvedukasi
+#EXTINF:0,TVRI
+https://indiku.uk.to/pp/ok.m3u8?ch=tvri
+#EXTINF:0,UChannel
+https://indiku.uk.to/pp/ok.m3u8?ch=uchannel
+#EXTINF:0,Aljazeera
+https://indiku.uk.to/pp/ok.m3u8?ch=aljazeera
+#EXTINF:0,AlQuran Kareem
+https://indiku.uk.to/pp/ok.m3u8?ch=alquran
+#EXTINF:0,DMI
+https://indiku.uk.to/pp/ok.m3u8?ch=dmi
