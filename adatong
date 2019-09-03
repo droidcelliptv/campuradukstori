@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Usee TV",BEINSPORT 1 INDO
-rtmp://118.97.96.17:1935/discover/beib1_3
+
 #EXTINF:0,beIN Sport 1
 https://indiku.uk.to/pp/ok.m3u8?ch=bein1
 #EXTINF:0,beIN Sport 2
