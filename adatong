@@ -1,41 +1,61 @@
 #EXTM3U
-#EXTINF:-1,beIN Sports 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/1.ts
-#EXTINF:-1,beIN Sports 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/2.ts
-#EXTINF:-1,beIN Sports 3 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/3.ts
-#EXTINF:-1,beIN Sports 4 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/4.ts
-#EXTINF:-1,beIN Sports 5 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/5.ts
-#EXTINF:-1,beIN Sports 6 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/6.ts
-#EXTINF:-1,beIN Sports 7 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/7.ts
-#EXTINF:-1,beIN Sports 8 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/8.ts
-#EXTINF:-1,beIN Sports 9 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/9.ts
-#EXTINF:-1,beIN Sports 10 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/10.ts
-#EXTINF:-1,BEIN SPORTS News
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/17.ts
-#EXTINF:-1,Turkish beIN Sports 1 (TR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/11.ts
-#EXTINF:-1,EuroSport 1 (FR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/12.ts
-#EXTINF:-1,EuroSport 2 (FR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/13.ts
-#EXTINF:-1,beIN Sports 1 HD (FR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/14.ts
-#EXTINF:-1,beIN Sports 2 HD (FR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/15.ts
-#EXTINF:-1,beIN Sports 3 HD (FR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/16.ts
-#EXTINF:-1,OSN AD Sports 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/18.ts
-#EXTINF:-1,OSN AD Sports 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/19.ts
-#EXTINF:-1,beIN Sports HD (ES)
-http://www.freeiptvdaily.net:8000/live/9795052378023/8315481740105/20.ts
+#EXTINF:-1,Se- Viasat Sport Baltic HD
+http://m-iptv.net:6204/live/987654123/987654123/8113.m3u8
+#EXTINF:-1,Se- Fight Sports
+http://m-iptv.net:6204/live/987654123/987654123/13521.m3u8
+#EXTINF:-1,Se- SportKanalen FHD
+http://m-iptv.net:6204/live/987654123/987654123/13520.m3u8
+#EXTINF:-1,No- Eurosport HD
+http://m-iptv.net:6204/live/987654123/987654123/8142.m3u8
+#EXTINF:-1,No- Eurosport Norge HD
+http://m-iptv.net:6204/live/987654123/987654123/8138.m3u8
+#EXTINF:-1,No- Eurosport Pluss 1
+http://m-iptv.net:6204/live/987654123/987654123/13466.m3u8
+#EXTINF:-1,No- Eurosport Pluss 2
+http://m-iptv.net:6204/live/987654123/987654123/13465.m3u8
+#EXTINF:-1,No- Eurosport Pluss 3
+http://m-iptv.net:6204/live/987654123/987654123/13464.m3u8
+#EXTINF:-1,No- Eurosport Pluss 4
+http://m-iptv.net:6204/live/987654123/987654123/13463.m3u8
+#EXTINF:-1,Fi- C More Sport 1 HD
+http://m-iptv.net:6204/live/987654123/987654123/9621.m3u8
+#EXTINF:-1,Fi- C More Sport 2
+http://m-iptv.net:6204/live/987654123/987654123/9620.m3u8
+#EXTINF:-1,Es- BARCA TV
+http://m-iptv.net:6204/live/987654123/987654123/10014.m3u8
+#EXTINF:-1,Es- BEIN LALIGA
+http://m-iptv.net:6204/live/987654123/987654123/10013.m3u8
+#EXTINF:-1,Es- BEIN SPORTS
+http://m-iptv.net:6204/live/987654123/987654123/10012.m3u8
+#EXTINF:-1,PT- SPORT TV
+http://m-iptv.net:6204/live/987654123/987654123/8810.m3u8
+#EXTINF:-1,PT- SPORT TV   HD
+http://m-iptv.net:6204/live/987654123/987654123/8809.m3u8
+#EXTINF:-1,PT- SPORTING TV
+http://m-iptv.net:6204/live/987654123/987654123/8808.m3u8
+#EXTINF:-1,PT- SPORTTV 1 HD
+http://m-iptv.net:6204/live/987654123/987654123/8807.m3u8
+#EXTINF:-1,PT- SPORTTV 1 SD
+http://m-iptv.net:6204/live/987654123/987654123/8806.m3u8
+#EXTINF:-1,PT- SPORTTV 2 HD
+http://m-iptv.net:6204/live/987654123/987654123/8805.m3u8
+#EXTINF:-1,PT- SPORTTV 2 SD
+http://m-iptv.net:6204/live/987654123/987654123/8804.m3u8
+#EXTINF:-1,PT- SPORTTV 3 HD
+http://m-iptv.net:6204/live/987654123/987654123/8803.m3u8
+#EXTINF:-1,PT- SPORTTV 3 SD
+http://m-iptv.net:6204/live/987654123/987654123/8802.m3u8
+#EXTINF:-1,PT- SPORTTV 4 HD
+http://m-iptv.net:6204/live/987654123/987654123/8801.m3u8
+#EXTINF:-1,PT- SPORTTV 5 HD
+http://m-iptv.net:6204/live/987654123/987654123/8800.m3u8
+#EXTINF:-1,PT- EUROSPORT 1
+http://m-iptv.net:6204/live/987654123/987654123/8853.m3u8
+#EXTINF:-1,PT- EUROSPORT 2
+http://m-iptv.net:6204/live/987654123/987654123/8852.m3u8
+#EXTINF:-1,PT- EUROSPORT NEWS
+http://m-iptv.net:6204/live/987654123/987654123/8850.m3u8
+#EXTINF:-1,PT- EuroSport 2 XTRA HD
+http://m-iptv.net:6204/live/987654123/987654123/8851.m3u8
+#EXTINF:-1,Be- ELEVEN SPORTS 1 HD
+http://m-iptv.net:6204/live/987654123/987654123/16326.m3u8
