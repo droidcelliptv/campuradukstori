@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="VVVIP001:Pinko TV" tvg-logo="" group-title="VVVIP",cahnnel 3
+https://bunny.lidoskor.com/live/channel3_240p528kbs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VVVIP001:Pinko TV" tvg-logo="" group-title="VVVIP",chann 3
+https://bunny.lidoskor.com/live/channel3.m3u8?token=Wsz_TMEPxCzqqQJEGHimiQ&expires=1569497448
