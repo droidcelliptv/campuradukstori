@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1,Nobarindo Chnanel 1
+https://157-245-148-2.nanostreaming.tech:8080/stream01/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 2
+https://157-245-148-2.nanostreaming.tech:8080/stream02/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 3
+https://157-245-148-2.nanostreaming.tech:8080/stream03/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 4
+https://157-245-148-2.nanostreaming.tech:8080/stream04/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 5
+https://157-245-148-2.nanostreaming.tech:8080/stream05/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 6
+https://157-245-148-2.nanostreaming.tech:8080/stream06/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 7
+https://157-245-148-2.nanostreaming.tech:8080/stream07/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 8
+https://157-245-148-2.nanostreaming.tech:8080/stream08/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 9
+https://157-245-148-2.nanostreaming.tech:8080/stream09/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 10
+https://157-245-148-2.nanostreaming.tech:8080/stream010/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 11
+https://157-245-148-2.nanostreaming.tech:8080/stream011/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 12
+https://157-245-148-2.nanostreaming.tech:8080/stream012/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 13
+https://157-245-148-2.nanostreaming.tech:8080/stream013/index.m3u8
+#EXTINF:-1,Nobarindo Chnanel 14
+https://157-245-148-2.nanostreaming.tech:8080/stream014/index.m3u8
+
+
